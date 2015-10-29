@@ -2,6 +2,7 @@ name: kelvinli
 favicon: null
 layout_spectrum: 0.05581082939170301
 typography_spectrum: 0.9513893551193178
+title: "Kelvin's Grid"
 cta:
   domain: null
   bucket: null
