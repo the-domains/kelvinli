@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Kelvin's Grid]]></title>
+        <description><![CDATA[Kelvin's Grid]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 29 Oct 2015 16:31:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mariner of the Seas]]></title>
+            <description><![CDATA[<article><h1>Mariner of the Seas</h1><p>Honeymoon on the cruise.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/076ff6d6-4d3c-412d-b152-4f1ec4f1e376.jpg"></article>]]></description>
+            <link>undefinedmariner-of-the-seas/index.html</link>
+            <guid isPermaLink="false">65b3ab74-04c4-48fe-b495-e6e64ec5881b</guid>
+            <pubDate>Thu, 29 Oct 2015 16:31:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
