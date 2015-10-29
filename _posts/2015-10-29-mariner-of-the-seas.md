@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Honeymoon on the cruise.
-datePublished: '2015-10-29T16:41:41.350Z'
-dateModified: '2015-10-29T16:41:39.865Z'
+datePublished: '2015-10-29T16:44:15.848Z'
+dateModified: '2015-10-29T16:44:07.264Z'
 title: Mariner of the Seas
 sourcePath: _posts/2015-10-29-mariner-of-the-seas.md
 published: true
