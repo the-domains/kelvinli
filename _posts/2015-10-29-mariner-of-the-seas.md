@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Honeymoon on the cruise.
-datePublished: '2015-10-29T16:39:23.208Z'
-dateModified: '2015-10-29T16:39:16.888Z'
+datePublished: '2015-10-29T16:39:32.681Z'
+dateModified: '2015-10-29T16:39:25.599Z'
 title: Mariner of the Seas
 sourcePath: _posts/2015-10-29-mariner-of-the-seas.md
 published: true
