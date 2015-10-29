@@ -1,6 +1,6 @@
 name: kelvinli
 favicon: null
-layout_spectrum: 0.10587
+layout_spectrum: 0.25764
 typography_spectrum: 0.24359
 title: "Kelvin's Grid"
 cta:
@@ -24,6 +24,6 @@ color:
     - '#c5c5c5'
   brandStrength: 0
   lightness: 1
-  saturation: 1
+  saturation: 0
   rhythmicContrast: 0.5
 purpose: []
